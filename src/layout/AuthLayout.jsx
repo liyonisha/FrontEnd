@@ -1,5 +1,5 @@
 
-import { Box, Button, Paper, TextField, Typography } from '@mui/material';
+import { Box } from '@mui/material';
 
 const AuthLayout = (props) => {
   return (
